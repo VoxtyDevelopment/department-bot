@@ -1,3 +1,5 @@
+# Vox Development Department Bot
+
 **We do NOT provide support as this product has reached its end of life, which means there will be minimal updates and bug fixes.**
 
 Create a bot at https://discord.com/developers/applications and enable all intents
